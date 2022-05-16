@@ -1,0 +1,60 @@
+html{
+    scroll-behavior: smooth;
+
+}
+body{
+    width: 100%;
+    height: 100%;
+    
+}
+
+th { 
+    padding: 5px;
+}
+
+td { 
+    padding: 5px;
+}
+.moda{
+    
+    flex-direction: column;
+    width: 50%;
+    margin: auto;
+    font-size: 25px;
+    justify-items: center;
+
+}
+.table{
+
+    margin-top: 3%;
+    color: white;
+    text-align: center;
+    
+}
+
+.thead-moda{
+    
+    
+    background-color:#BB86FC;
+    
+}
+
+.TBody-moda{
+    padding: 1%;
+    background-color: #424250;
+}
+
+.casa{
+    margin-top: 4%;
+}
+.thead-casa{
+    
+    
+    background-color:#00C4B4;
+    
+}
+
+.TBody-casa{
+    padding: 1%;
+    background-color: #424250;
+}
